@@ -3,10 +3,3 @@ config.php
 
 # Ignore node_modules
 node_modules/
-
-# Ignore system directories and files
-$Recycle.Bin/
-System Volume Information/
-Documents and Settings/
-IntelOptaneData/
-Recovery/
