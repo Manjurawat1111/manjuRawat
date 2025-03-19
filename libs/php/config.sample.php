@@ -1,8 +1,0 @@
-<?php
-define('WEATHER_API_KEY', 'YOUR_KEY');
-define('OPENCAGE_API', "YOUR_KEY");
-define("GEONAMES_USERNAME", "YOUR_USERNAME");
-define("NEWS_API_KEY", "YOUR_KEY");
-define("CURRENCY_EXCHANGE_API_KEY", "YOUR_KEY" );
-
-?>
