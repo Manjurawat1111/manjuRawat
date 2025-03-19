@@ -1,2 +1,0 @@
-# manjuRawat
-ItCareerSwitch projects
