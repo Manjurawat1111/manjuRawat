@@ -3,9 +3,12 @@
 1.Clone the repository from GitHub:
 git clone https://github.com/Manjurawat1111/manjuRawat/.git  
 
-2.Rename the config.example.php file in the php directory to config.php:   
+2.Rename the config.example.php file in the php directory to config.php:  
+
 3.Add the respective API keys and username values in the config.php file for your project.  
+
 4.Rename the config.example.js file to config.js:  
+
 5.Add your API key for the chosen tile layer in the config.js file.  
 
 # Portfolio Project #1: Gazetteer
